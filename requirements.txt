@@ -1,0 +1,2 @@
+numpy pandas scipy scikit-learn sentence-transformers networkx
+umap-learn ripser persim tqdm matplotlib
